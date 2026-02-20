@@ -1,5 +1,7 @@
 # Hospital-Food-Management
 This project is a Hospital Food Delivery Management System designed to streamline the management of patient details, diet charts, pantry tasks, and food delivery within a hospital setting. It is a full-stack web application that allows hospital staff to efficiently manage patient meals and track food deliveries.
+
+
 📋 Features
 
 🏥 Hospital Food Manager
